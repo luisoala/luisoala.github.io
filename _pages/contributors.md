@@ -3,7 +3,7 @@ layout: page
 title: Student collaborators
 permalink: /students/
 description:  Each time a new contributor is added the order is reshuffled &#35;perpetualrevolution 😉.
-nav: true
+nav: false
 nav-order: d
 ---
 
