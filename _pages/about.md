@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: PhD Student @ <a href="http://iphome.hhi.de/samek/">XAI Group - AI Department - Fraunhofer Institute for Telecommunications</a> <br> WG Chair @ <a href="https://www.itu.int/en/ITU-T/focusgroups/ai4h/Pages/default.aspx">ITU/WHO Focus Group on AI for Health</a> <br> Co-organizer @ <a href="https://aiaudit.org">aiaudit.org </a> 
+description: PhD Student @ <a href="http://iphome.hhi.de/samek/"> Department of Artificial Intelligence | Fraunhofer Heinrich Hertz Institute (HHI) </a> <br> WG Chair @ <a href="https://www.itu.int/en/ITU-T/focusgroups/ai4h/Pages/default.aspx">ITU/WHO Focus Group on AI for Health</a> <br> Co-organizer @ <a href="https://aiaudit.org">aiaudit.org </a> 
 
 profile:
   align: right
