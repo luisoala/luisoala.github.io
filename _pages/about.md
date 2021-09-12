@@ -21,4 +21,4 @@ Our mission is to develop methods, standards and software for AI auditing that w
 
 For that purpose, I co-chair a group of more than 30 contributors from across the world working on data and AI solution assessment methods at the [ITU/WHO Focus Group on Artificial Intelligence for Health (FG-AI4H)](https://www.itu.int/en/ITU-T/focusgroups/ai4h/Pages/default.aspx) and co-organize a growing, open research network at [aiaudit.org](https://aiaudit.org).
 
-If you are interested to collaborate I invite you to take a look [here]().
+If you are interested to collaborate I invite you to take a look [here](https://aiaudit.org/).
