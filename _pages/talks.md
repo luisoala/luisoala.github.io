@@ -6,11 +6,6 @@ description: A list of talks and presentations I gave
 nav: false
 nav-order: b
 ---
-date
-video
-slides/poster
-paper/link
-
 ## More Than Meets The Eye: Semi-supervised Learning Under Non-IID Data
 **ICLR 2021 RobustML Workshop** | **April 2020** | [**Paper**](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-031) | [**Code**](https://github.com/luisoala/non-iid-ssdl) | [**Poster**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/posters/Poster_ICLR_2021_v2%20(1).pdf)
 
@@ -19,6 +14,7 @@ paper/link
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/poster/iclr-ssdl.png" data-zoomable>
     </div>
 </div>
+<br>
 
 ## Post-Hoc Domain Adaptation via Guided Data Homogenization
 **ICLR 2021 RobustML Workshop** | **April 2020** | [**Paper**](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-062) | [**Code**](https://github.com/willisk/GDH) | [**Poster**]()
@@ -34,6 +30,7 @@ paper/link
         verticalEnabled: true
     });
 </script>
+<br>
 
 ## High-d (Heidi) Swiss Army Knife
 **HHI AI Department Seminar** | **August 2020** | [**Slides**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/slides/high_d_swiss_army_knife%20(2).pdf)
@@ -43,9 +40,7 @@ paper/link
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/talks/highd.png" data-zoomable>
     </div>
 </div>
-<div class="caption">
-    ipsum lorem
-</div>
+<br>
 
 ## Detecting failure modes in image reconstructions with interval neural network uncertainty
 **ICML UDL 2020 (Spotlight)** | **July 2020** | [**Paper**](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-011.pdf) | [**Code**](https://github.com/luisoala/inn) | [**Slides**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/slides/UDL2020_slides%20(9).pdf)
@@ -59,6 +54,7 @@ paper/link
         verticalEnabled: true
     });
 </script>
+<br>
 
 **ACM CHIL 2020** | **July 2020** | [**Paper**](https://link.springer.com/article/10.1007/s11548-021-02482-2) | [**Code**](https://github.com/luisoala/inn) | [**Slides**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/slides/CHIL2020_slides_1.pdf)
 
@@ -71,6 +67,7 @@ paper/link
         verticalEnabled: true
     });
 </script>
+<br>
 
 ## Transformers
 **Papers & Cookies Seminar** | **November 2018** | [**Slides**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/slides/transformers.pdf)
