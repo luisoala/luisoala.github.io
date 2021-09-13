@@ -20,6 +20,14 @@ paper/link
 ## ICLR 2021 RobustML Workshop
 
 # ML4H Auditing: From Paper to Practice
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/talks/neurips.png" data-zoomable>
+    </div>
+</div>
+<div class="caption">
+    ipsum lorem
+</div>
 
 ## NeurIPS 2020 ML4H Workshop (spotlight)
 
@@ -39,8 +47,24 @@ paper/link
 # Detecting failure modes in image reconstructions with interval neural network uncertainty
 
 ## ICML UDL 2020 (spotlight)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/talks/icml.png" data-zoomable>
+    </div>
+</div>
+<div class="caption">
+    ipsum lorem
+</div>
 
 ## ACM CHIL 2020
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/talks/acmchil.png" data-zoomable>
+    </div>
+</div>
+<div class="caption">
+    ipsum lorem
+</div>
 
 # Transformers
 
