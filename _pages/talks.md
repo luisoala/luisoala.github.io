@@ -11,11 +11,11 @@ video
 slides/poster
 paper/link
 
-# TITLE
+# More Than Meets The Eye: Semi-supervised Learning Under Non-IID Data
 
 ## ICLR 2021 RobustML Workshop
 
-# TITLE
+# Post-Hoc Domain Adaptation via Guided Data Homogenization
 
 ## ICLR 2021 RobustML Workshop
 
@@ -23,12 +23,34 @@ paper/link
 
 ## NeurIPS 2020 ML4H Workshop (spotlight)
 
-# High D Swiss Army Knife
+# High-d (Heidi) Swiss Army Knife
 
-# TITLE
+## AI Department Seminar
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/talks/highd.png" data-zoomable>
+    </div>
+</div>
+<div class="caption">
+    ipsum lorem
+</div>
+
+# Detecting failure modes in image reconstructions with interval neural network uncertainty
 
 ## ICML UDL 2020 (spotlight)
 
 ## ACM CHIL 2020
 
-# Transformer
+# Transformers
+
+## Papers & Cookies Seminar
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/talks/transformer.png" data-zoomable>
+    </div>
+</div>
+<div class="caption">
+    ipsum lorem
+</div>
