@@ -2,8 +2,8 @@
 layout: page
 title: Talks and presentations
 permalink: /talks/
-description: A list of talks and presentations I gave
-nav: false
+description:
+nav: True
 nav-order: b
 ---
 ## More Than Meets The Eye: Semi-supervised Learning Under Non-IID Data
