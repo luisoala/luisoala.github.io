@@ -12,14 +12,11 @@ slides/poster
 paper/link
 
 # More Than Meets The Eye: Semi-supervised Learning Under Non-IID Data
-
-## ICLR 2021 RobustML Workshop
-
+**ICLR 2021 RobustML Workshop** | **Date** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
 # Post-Hoc Domain Adaptation via Guided Data Homogenization
-
-## ICLR 2021 RobustML Workshop
-
-# ML4H Auditing: From Paper to Practice
+**ICLR 2021 RobustML Workshop** | **Date** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
+# ML4H Auditing: From Paper to Practice (Spotlight)
+**NeurIPS 2020 ML4H Workshop** | **Date** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/talks/neurips.png" data-zoomable>
@@ -28,12 +25,8 @@ paper/link
 <div class="caption">
     ipsum lorem
 </div>
-
-## NeurIPS 2020 ML4H Workshop (spotlight)
-
 # High-d (Heidi) Swiss Army Knife
-
-## AI Department Seminar
+**HHI AI Department Seminar** | **Date** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -45,8 +38,8 @@ paper/link
 </div>
 
 # Detecting failure modes in image reconstructions with interval neural network uncertainty
+**ICML UDL 2020 (Spotlight)** | **Date** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
 
-## ICML UDL 2020 (spotlight)
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/talks/icml.png" data-zoomable>
@@ -56,7 +49,8 @@ paper/link
     ipsum lorem
 </div>
 
-## ACM CHIL 2020
+**ACM CHIL 2020** | **Date** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/talks/acmchil.png" data-zoomable>
@@ -67,8 +61,7 @@ paper/link
 </div>
 
 # Transformers
-
-## Papers & Cookies Seminar
+**Papers & Cookies Seminar** | **Date** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
