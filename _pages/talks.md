@@ -12,8 +12,10 @@ slides/poster
 paper/link
 
 ## More Than Meets The Eye: Semi-supervised Learning Under Non-IID Data
-
 **ICLR 2021 RobustML Workshop** | **April 2020** | [**Paper**](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-031) | [**Code**](https://github.com/luisoala/non-iid-ssdl) | [**Poster**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/posters/Poster_ICLR_2021_v2%20(1).pdf)
+
+
+<a href="https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-031" target="blank">**Paper**</a> | <a href="https://github.com/luisoala/non-iid-ssdl" target="blank">**Code**</a> | <a href="https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/posters/Poster_ICLR_2021_v2%20(1).pdf" target="blank">**Poster**</a>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
