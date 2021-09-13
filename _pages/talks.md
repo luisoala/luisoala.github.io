@@ -23,7 +23,7 @@ paper/link
 ## Post-Hoc Domain Adaptation via Guided Data Homogenization
 **ICLR 2021 RobustML Workshop** | **April 2020** | [**Paper**](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-062) | [**Code**](https://github.com/willisk/GDH) | [**Poster**]()
 ## ML4H Auditing: From Paper to Practice (Spotlight)
-**NeurIPS 2020 ML4H Workshop** | **December 2020** | [**Paper**](http://proceedings.mlr.press/v136/oala20a.html) | [**Poster**]() | [**Slides**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/slides/ML4H_NeurIPS2020_Slides.pdf)
+**NeurIPS 2020 ML4H Workshop** | **December 2020** | [**Paper**](http://proceedings.mlr.press/v136/oala20a.html) | [**Poster**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/posters/76_poster%20(1).pdf) | [**Slides**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/slides/ML4H_NeurIPS2020_Slides.pdf)
 
 <div id="presentation-embed-38941015"></div>
 <script src='https://slideslive.com/embed_presentation.js'></script>
