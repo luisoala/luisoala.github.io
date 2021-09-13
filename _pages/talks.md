@@ -17,6 +17,17 @@ paper/link
 **ICLR 2021 RobustML Workshop** | **Date** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
 # ML4H Auditing: From Paper to Practice (Spotlight)
 **NeurIPS 2020 ML4H Workshop** | **Date** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
+
+<div id="presentation-embed-38941015"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38941015', {
+        presentationId: '38941015',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/talks/neurips.png" data-zoomable>
