@@ -12,7 +12,6 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-<br>
 Hi 👋 I am Luis Oala. I am a PhD research scientist at the [AI Department](https://www.hhi.fraunhofer.de/en/departments/ai.html) of [Wojciech Samek](http://iphome.hhi.de/samek/) at [Fraunhofer HHI](https://www.hhi.fraunhofer.de/en.html) in Berlin, Germany.
 
 Together with my students and collaborators, I work at the intersection of uncertainty quantification, robustness and interpretability to understand and detect failure modes of deep neural networks.
