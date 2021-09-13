@@ -12,11 +12,11 @@ slides/poster
 paper/link
 
 # More Than Meets The Eye: Semi-supervised Learning Under Non-IID Data
-**ICLR 2021 RobustML Workshop** | **Date** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
+**ICLR 2021 RobustML Workshop** | **April 2020** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
 # Post-Hoc Domain Adaptation via Guided Data Homogenization
-**ICLR 2021 RobustML Workshop** | **Date** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
+**ICLR 2021 RobustML Workshop** | **April 2020** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
 # ML4H Auditing: From Paper to Practice (Spotlight)
-**NeurIPS 2020 ML4H Workshop** | **Date** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
+**NeurIPS 2020 ML4H Workshop** | **December 2020** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
 
 <div id="presentation-embed-38941015"></div>
 <script src='https://slideslive.com/embed_presentation.js'></script>
@@ -28,17 +28,8 @@ paper/link
     });
 </script>
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/talks/neurips.png" data-zoomable>
-    </div>
-</div>
-<div class="caption">
-    ipsum lorem
-</div>
-
 # High-d (Heidi) Swiss Army Knife
-**HHI AI Department Seminar** | **Date** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
+**HHI AI Department Seminar** | **August 2020** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -50,27 +41,29 @@ paper/link
 </div>
 
 # Detecting failure modes in image reconstructions with interval neural network uncertainty
-**ICML UDL 2020 (Spotlight)** | **Date** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
+**ICML UDL 2020 (Spotlight)** | **July 2020** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/talks/icml.png" data-zoomable>
-    </div>
-</div>
-<div class="caption">
-    ipsum lorem
-</div>
+<div id="presentation-embed-38930948"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38930948', {
+        presentationId: '38930948',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
 
-**ACM CHIL 2020** | **Date** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
+**ACM CHIL 2020** | **July 2020** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/talks/acmchil.png" data-zoomable>
-    </div>
-</div>
-<div class="caption">
-    ipsum lorem
-</div>
+<div id="presentation-embed-38931985"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38931985', {
+        presentationId: '38931985',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
 
 # Transformers
 **Papers & Cookies Seminar** | **Date** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
