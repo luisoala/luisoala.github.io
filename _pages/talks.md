@@ -76,7 +76,3 @@ nav-order: b
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/talks/transformer.png" data-zoomable>
     </div>
-</div>
-<div class="caption">
-    ipsum lorem
-</div>
