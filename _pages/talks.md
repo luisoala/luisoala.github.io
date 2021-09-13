@@ -11,7 +11,8 @@ video
 slides/poster
 paper/link
 
-# More Than Meets The Eye: Semi-supervised Learning Under Non-IID Data
+## More Than Meets The Eye: Semi-supervised Learning Under Non-IID Data
+
 **ICLR 2021 RobustML Workshop** | **April 2020** | [**Paper**](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-031) | [**Code**](https://github.com/luisoala/non-iid-ssdl) | [**Poster**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/posters/Poster_ICLR_2021_v2%20(1).pdf)
 
 <div class="row mt-3">
@@ -23,7 +24,7 @@ paper/link
     ipsum lorem
 </div>
 
-# Post-Hoc Domain Adaptation via Guided Data Homogenization
+## Post-Hoc Domain Adaptation via Guided Data Homogenization
 **ICLR 2021 RobustML Workshop** | **April 2020** | [**Paper**](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-062) | [**Code**](https://github.com/willisk/GDH) | [**Poster**]()
 # ML4H Auditing: From Paper to Practice (Spotlight)
 **NeurIPS 2020 ML4H Workshop** | **December 2020** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
@@ -38,7 +39,7 @@ paper/link
     });
 </script>
 
-# High-d (Heidi) Swiss Army Knife
+## High-d (Heidi) Swiss Army Knife
 **HHI AI Department Seminar** | **August 2020** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
 
 <div class="row mt-3">
@@ -50,7 +51,7 @@ paper/link
     ipsum lorem
 </div>
 
-# Detecting failure modes in image reconstructions with interval neural network uncertainty
+## Detecting failure modes in image reconstructions with interval neural network uncertainty
 **ICML UDL 2020 (Spotlight)** | **July 2020** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
 
 <div id="presentation-embed-38930948"></div>
@@ -75,7 +76,7 @@ paper/link
     });
 </script>
 
-# Transformers
+## Transformers
 **Papers & Cookies Seminar** | **Date** | [**Paper**]() | [**Code**]() | [**Poster**]() | [**Slides**]()
 
 <div class="row mt-3">
