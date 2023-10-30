@@ -3,28 +3,6 @@
 
 %special fields include abbr, award, pdf, html, abstract, slides, video, selected
 
-@InProceedings{pmlr-v136-oala20a,
-  abbr = {NeurIPS},
-  award = {Spotlight<br>Top 10%},
-  title = 	 {ML4H Auditing: From Paper to Practice},
-  author =       {Oala, Luis and Fehr, Jana and Gilli, Luca and Balachandran, Pradeep and Leite, Alixandro Werneck and Calderon-Ramirez, Saul and Li, Danny Xie and Nobis, Gabriel and Alvarado, Erick Alejandro Munoz and Jaramillo-Gutierrez, Giovanna and Matek, Christian and Shroff, Arun and Kherif, Ferath and Sanguinetti, Bruno and Wiegand, Thomas},
-  booktitle = 	 {Proceedings of the Machine Learning for Health NeurIPS Workshop},
-  pages = 	 {280--317},
-  year = 	 {2020},
-  editor = 	 {Emily Alsentzer and Matthew B. A. McDermott and Fabian Falck and Suproteem K. Sarkar and Subhrajit Roy and Stephanie L. Hyland},
-  volume = 	 {136},
-  series = 	 {Proceedings of Machine Learning Research},
-  month = 	 {11 Dec},
-  publisher =    {PMLR},
-  pdf = 	 {http://proceedings.mlr.press/v136/oala20a/oala20a.pdf},
-  url = 	 {http://proceedings.mlr.press/v136/oala20a.html},
-  html = {http://proceedings.mlr.press/v136/oala20a.html},
-  abstract = 	 {Healthcare systems are currently adapting to digital technologies, producing large quantities of novel data. Based on these data, machine-learning algorithms have been developed to support practitioners in labor-intensive workflows such as diagnosis, prognosis, triage or treatment of disease. However, their translation into medical practice is often hampered by a lack of careful evaluation in different settings. Efforts have started worldwide to establish guidelines for evaluating machine learning for health (ML4H) tools, highlighting the necessity to evaluate models for bias, interpretability, robustness, and possible failure modes. However, testing and adopting these guidelines in practice remains an open challenge. In this work, we target the paper-to-practice gap by applying an ML4H audit framework proposed by the ITU/WHO Focus Group on Artificial Intelligence for Health (FG-AI4H) to three use cases: diagnostic prediction of diabetic retinopathy, diagnostic prediction of Alzheimer’s disease, and cytomorphologic classification for leukemia diagnostics. The assessment comprises dimensions such as bias, interpretability, and robustness. Our results highlight the importance of fine-grained and caseadapted quality assessment, provide support for incorporating proposed quality assessment considerations of ML4H during the entire development life cycle, and suggest improvements for future ML4H reference evaluation frameworks.},
-  slides = {slides/ML4H_NeurIPS2020_Slides.pdf},
-  video = {https://slideslive.at/38941015/ml4h-auditing-from-paper-to-practice},
-  selected = {true}
-}
-
 @InProceedings{OalUDL20,
   abbr = {ICML},
   award = {Spotlight<br>Top 10%},
@@ -64,7 +42,7 @@
   pages = {},
   html = {https://sites.google.com/connect.hku.hk/robustml-2021/home?authuser=0},
   abstract = {In absence of explicit knowledge about data models it is often assumed that a semantic match between labelled and unlabelled data is desirable in the context of semi-supervised deep learning (SSDL). In this work, we demonstrate the limits of semantic data set matching. We present and make available a comprehensive simulation sandbox, called non-IID-SSDL, for stress testing SSDL algorithms under various non-IID configurations. We show that semantic data set matching can degrade the performance for state of the art SSDL. In addition, we demonstrate that simple dissimilarity measures in the feature space of a generic classifier offer a promising and more reliable matching criterion.},
-  selected = {true}
+  selected = {false}
 }
 
 @InProceedings{10.1007/978-3-658-33198-6_79,
@@ -91,8 +69,43 @@ isbn="978-3-658-33198-6",
 url = {https://link.springer.com/chapter/10.1007%2F978-3-658-33198-6_79},
   html = {https://link.springer.com/chapter/10.1007%2F978-3-658-33198-6_79},
   pdf = {https://link.springer.com/chapter/10.1007%2F978-3-658-33198-6_79},
-  selected = {true},
+  selected = {false},
   awarddoc = {misc/BVM2021_Preis_1sterPlatz.pdf}
+}
+
+@InProceedings{regGMLP,
+      title       = {Good practices for health applications of machine learning: Considerations for manufacturers and regulators},
+      author      = {Christian Johner and Pradeep Balachandran and Luis Oala and Aaron .Y. Lee and Alixandro Werneck Leite and Andrew Murchison and Anle Lin and Christoph Molnar and Juliet Rumball-Smith and Pat Baird and Peter. G. Goldschmidt and Pierre Quartarolo and Shan Xu and Sven Piechottka and Zack Hornberger},
+      booktitle = 	 {Proceedings of the ITU/WHO Focus Group on Artificial Intelligence for Health (FG-AI4H) - Meeting K},
+      year        = {2020},
+      month       = {ITU/WHO},
+      abbr={ITU/WHO},
+      html={https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/_layouts/15/WopiFrame.aspx?sourcedoc=%7B828882B2-4941-452C-8A61-F4DDE5802C2A%7D&file=FGAI4H-K-039.docx&action=default&CT=1614782367878&OR=DocLibClassicUI},
+      pdf={standards/FGAI4H-K-039.pdf},
+      abstract={This document contains the latest draft of the FG-AI4H deliverable DEL02.2 "Good practices for health applications of machine learning: Considerations for manufacturers and regulators". This deliverable defines a set of guidelines intended to serve the AI solution developers/manufacturers on how to do conduct a comprehensive requirements analysis and to streamline the conformity assessment procedures to ensure regulatory compliance for the AI based Medical Devices (AI/ML-MD).},
+      selected = {true},
+    }
+    
+@InProceedings{pmlr-v136-oala20a,
+  abbr = {NeurIPS},
+  award = {Spotlight<br>Top 10%},
+  title = 	 {ML4H Auditing: From Paper to Practice},
+  author =       {Oala, Luis and Fehr, Jana and Gilli, Luca and Balachandran, Pradeep and Leite, Alixandro Werneck and Calderon-Ramirez, Saul and Li, Danny Xie and Nobis, Gabriel and Alvarado, Erick Alejandro Munoz and Jaramillo-Gutierrez, Giovanna and Matek, Christian and Shroff, Arun and Kherif, Ferath and Sanguinetti, Bruno and Wiegand, Thomas},
+  booktitle = 	 {Proceedings of the Machine Learning for Health NeurIPS Workshop},
+  pages = 	 {280--317},
+  year = 	 {2020},
+  editor = 	 {Emily Alsentzer and Matthew B. A. McDermott and Fabian Falck and Suproteem K. Sarkar and Subhrajit Roy and Stephanie L. Hyland},
+  volume = 	 {136},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {11 Dec},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v136/oala20a/oala20a.pdf},
+  url = 	 {http://proceedings.mlr.press/v136/oala20a.html},
+  html = {http://proceedings.mlr.press/v136/oala20a.html},
+  abstract = 	 {Healthcare systems are currently adapting to digital technologies, producing large quantities of novel data. Based on these data, machine-learning algorithms have been developed to support practitioners in labor-intensive workflows such as diagnosis, prognosis, triage or treatment of disease. However, their translation into medical practice is often hampered by a lack of careful evaluation in different settings. Efforts have started worldwide to establish guidelines for evaluating machine learning for health (ML4H) tools, highlighting the necessity to evaluate models for bias, interpretability, robustness, and possible failure modes. However, testing and adopting these guidelines in practice remains an open challenge. In this work, we target the paper-to-practice gap by applying an ML4H audit framework proposed by the ITU/WHO Focus Group on Artificial Intelligence for Health (FG-AI4H) to three use cases: diagnostic prediction of diabetic retinopathy, diagnostic prediction of Alzheimer’s disease, and cytomorphologic classification for leukemia diagnostics. The assessment comprises dimensions such as bias, interpretability, and robustness. Our results highlight the importance of fine-grained and caseadapted quality assessment, provide support for incorporating proposed quality assessment considerations of ML4H during the entire development life cycle, and suggest improvements for future ML4H reference evaluation frameworks.},
+  slides = {slides/ML4H_NeurIPS2020_Slides.pdf},
+  video = {https://slideslive.at/38941015/ml4h-auditing-from-paper-to-practice},
+  selected = {true}
 }
 
 @article{oala2021detecting,
@@ -110,4 +123,3 @@ url = {https://link.springer.com/chapter/10.1007%2F978-3-658-33198-6_79},
   code={https://github.com/luisoala/inn}
   
 }
-
