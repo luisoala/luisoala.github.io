@@ -3,9 +3,9 @@ layout: page
 permalink: /publications/
 title: Publications
 description: 
-years-cj: [2021, 2020]
-years-pp: [2020]
-years-std: [2021, 2020]
+years-cj: [2024, 2023, 2022, 2021, 2020]
+years-pp: [2024, 2023, 2022, 2021, 2020]
+years-std: [2024, 2023, 2022, 2021, 2020]
 nav: true
 nav-order: a
 ---
