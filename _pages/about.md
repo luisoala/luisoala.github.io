@@ -2,22 +2,25 @@
 layout: about
 title: about
 permalink: /
-description: PhD Student @ <a href="http://iphome.hhi.de/samek/"> Department of Artificial Intelligence | Fraunhofer Heinrich Hertz Institute (HHI) </a> <br> WG Chair @ <a href="https://www.itu.int/en/ITU-T/focusgroups/ai4h/Pages/default.aspx">ITU/WHO Focus Group on AI for Health</a> <br> Co-organizer @ <a href="https://aiaudit.org">aiaudit.org </a> 
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
+latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
-Hi 👋 I am Luis Oala. I am a PhD research scientist at the [Department of Artificial Intelligence](https://www.hhi.fraunhofer.de/en/departments/ai.html) of [Wojciech Samek](http://iphome.hhi.de/samek/) at [Fraunhofer HHI](https://www.hhi.fraunhofer.de/en.html) in Berlin, Germany.
 
-Together with my students and collaborators, I work at the intersection of uncertainty quantification, robustness and interpretability to understand and detect failure modes of deep neural networks.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Our mission is to develop methods, standards and software for AI auditing that will eventually allow the reliable application of AI technology even in high-stakes applications such as medicine.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-For that purpose, I co-chair a group of more than 30 contributors from across the world working on data and AI solution assessment methods at the [ITU/WHO Focus Group on Artificial Intelligence for Health (FG-AI4H)](https://www.itu.int/en/ITU-T/focusgroups/ai4h/Pages/default.aspx) and co-organize a growing, open research network at [aiaudit.org](https://aiaudit.org).
-
-If you are interested to collaborate I invite you to take a look [here](https://aiaudit.org/).
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
