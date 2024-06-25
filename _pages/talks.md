@@ -3,7 +3,7 @@ layout: page
 title: Talks
 permalink: /talks/
 description:
-nav: True
+nav: false
 nav-order: b
 ---
 ## More Than Meets The Eye: Semi-supervised Learning Under Non-IID Data
