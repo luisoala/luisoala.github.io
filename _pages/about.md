@@ -5,7 +5,7 @@ permalink: /
 subtitle: Head of Machine Learning @ <a href="https://dotphoton.com"> Dotphoton </a> building towards <a href="https://metrological.ml"> metrological.ml </a> <br> PhD Student @ <a href="http://iphome.hhi.de/samek/"> Department of Artificial Intelligence | Fraunhofer Heinrich Hertz Institute (HHI) </a> #<!-- <br> WG Chair @ <a href="https://www.itu.int/en/ITU-T/focusgroups/ai4h/Pages/default.aspx">ITU/WHO Focus Group on AI for Health</a> <br> Co-organizer @ <a href="https://aiaudit.org">aiaudit.org </a> -->
 
 profile:
-  align: right
+  align: top
   image: prof_pic.jpg
 
 news: false  # includes a list of news items
