@@ -13,3 +13,9 @@ In order to avoid becoming an inscrutable hermit, he tries in regular intervals 
 He also promotes opportunities for community. He helped initiate machine learning venues such as [Data-Centric Machine Learning Research (DMLR)](https://arxiv.org/abs/2311.13028) and [AI for Good](https://aiforgood.itu.int/eventcat/discovery-data-centric-machine-learning-for-good/) and co-chaired conferences such as [ML4H](https://ml4h.cc/2023/), [ICLR](https://iclr.cc/Conferences/2024/Committees) or the [DMLR workshop](https://dmlr.ai/) series.
 
 He is Head of Machine Learning at Swiss company [Dotphoton](https://www.dotphoton.com/).
+
+## mugshots
+
+![mugshot_1](/assets/img/mugshots/dotphoton-66.jpg)
+
+
