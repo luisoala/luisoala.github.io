@@ -14,8 +14,4 @@ He also promotes opportunities for community. He helped initiate machine learnin
 
 He is Head of Machine Learning at Swiss company [Dotphoton](https://www.dotphoton.com/).
 
-## mugshots
-
-![mugshot_1](/assets/img/mugshots/dotphoton-66.jpg)
-
 
