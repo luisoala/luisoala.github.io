@@ -20,27 +20,15 @@ I also enjoy promoting opportunities for community. I helped initiate machine le
 
 I am Head of Machine Learning at Swiss company [Dotphoton](https://www.dotphoton.com/) and a PhD research scientist at the [Department of Artificial Intelligence](https://www.hhi.fraunhofer.de/en/departments/ai.html) of [Wojciech Samek](http://iphome.hhi.de/samek/) at [Fraunhofer HHI](https://www.hhi.fraunhofer.de/en.html) in Berlin, Germany.
 
-## Writing
+### Writing
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=v3ybnf0AAAAJ&view_op=list_works&sortby=pubdate)
 
-## Talks and Presentations
+### Talks and Presentations
 
-* **Time**  
-Title  
-**[[asset1]]()**  
-*Venue - Place*
-* **Time**  
-Title  
-**[[asset1]]()**  
-*Venue - Place*
-* **Time**  
-Title  
-**[[asset1]]()**  
-*Venue - Place*
-* **Time**  
-Title  
-**[[asset1]]()**  
-*Venue - Place*
+* **Time** Title **[[asset1]]()** *Venue - Place*
+* **Time** Title **[[asset1]]()** *Venue - Place*
+* **Time** Title **[[asset1]]()** *Venue - Place*
+* **Time** Title **[[asset1]]()** *Venue - Place*
 
 
 
