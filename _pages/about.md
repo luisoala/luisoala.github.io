@@ -25,8 +25,10 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=v3ybnf0AAAA
 
 #### Talks and Presentations
 
-* nus ai4h
-* **Time** *A Fever Dream of Machine Learning Framework Composability* **[[asset1]]()** Microsoft Research - Nairobi, Kenya
+* **[2025-03-17]** - *Data Market for Healthcare AI* - **[[slides]](https://docs.google.com/presentation/d/1TAcBq5es4lIO7WNsIwKCGQ_DudX2C95W/edit?usp=sharing&ouid=113649714624093932372&rtpof=true&sd=true)** **[[notes]](https://drive.google.com/file/d/1J6CgCLJ3kR66-oZarMc0FxeBNJsuS_Zo/view?usp=sharing)** - Invited Talk @ National University Singapore - Singapore
+* **[2024-12-13]** - *Croissant: A Metadata Format for ML-Ready Datasets* - **[[abstract]](https://neurips.cc/virtual/2024/poster/97627)** **[[slides]](https://neurips.cc/media/neurips-2024/Slides/97627.pdf)** **[[poster]](https://docs.google.com/presentation/d/1m_YH1CorDqr7CJWyEzbLruAejrDAnk8MWyGfV8uX9rk/edit?usp=sharing)** - Poster @ NeurIPS 2024 - Vancouver, Canada
+* **[2024-12-11]** - *Generative Fractional Diffusion Models* - **[[abstract]](https://neurips.cc/virtual/2024/poster/96210)** **[[slides]](https://neurips.cc/media/neurips-2024/Slides/96210.pdf)** **[[poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/96210.png?t=1733531281.51479)** - Poster @ NeurIPS 2024 - Vancouver, Canada
+* **[2024-12-04]** - *A Fever Dream of Machine Learning Framework Composability* - **[[abstract]](https://www.microsoft.com/en-us/research/video/a-fever-dream-of-machine-learning-framework-composability/)** **[[video]](https://www.microsoft.com/en-us/research/video/a-fever-dream-of-machine-learning-framework-composability/)** - Invited Talk @ Microsoft Research - Nairobi, Kenya
 * neurips 2024 1
 * neurips 2024 2
 * indaba
