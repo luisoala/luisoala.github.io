@@ -31,6 +31,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=v3ybnf0AAAA
 * **[2024-12-04]** *A Fever Dream of Machine Learning Framework Composability* **[[abstract]](https://www.microsoft.com/en-us/research/video/a-fever-dream-of-machine-learning-framework-composability/)** **[[video]](https://www.microsoft.com/en-us/research/video/a-fever-dream-of-machine-learning-framework-composability/)** Invited Talk @ Microsoft Research - Nairobi, Kenya
 * **[2024-09-02]** *Paradoxes in Data-Centric Machine Learning* **[[slides]](https://docs.google.com/presentation/d/1aPRdXlrn--6rj9q72WCwIPCNv37BLu8K4g94eQAWXzM/edit?usp=sharing)** **[[abstract]](https://deeplearningindaba.com/2024/programme-2024/speakers/)** Invited Talk @ Deep Learning Indaba 2024 - Dakar, Senegal
 * **[2023-11-30]** *Metrological Machine Learning (2ML)* **[[slides]](https://docs.google.com/presentation/d/1_oUOoxtg0UZALozKn5ejiuy3BEFMUX1VlIvTNnFfG_8/edit?usp=sharing)** **[[program]](https://sites.google.com/view/bip-2023/program?authuser=0)** Invited Talk @ IEEE BIP Tecnológico de Costa Rica - San Carlos, Costa Rica
+* **[2023-07-12]** *Interview* **[[abstract]](https://stephenibaraki.com/ieee-tems/interviews/v0723/luis_oala_ieee-tems.html)** **[[raw video]](https://www.youtube.com/watch?v=SxzQQwQN-dY&ab_channel=StephenIbaraki)** Interview @ IEEE TEMS/ACM with Stephen Ibaraki - Cyberspace
+<!--
+* neurips 2023 1
 * neurips 2023 1
 * ai for good
 * mihaela exchange
@@ -42,7 +45,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=v3ybnf0AAAA
 
 
 
-<!--
+
 Together with my students and collaborators, I work at the intersection of uncertainty quantification, robustness and interpretability to understand and detect failure modes of deep neural networks.
 
 
