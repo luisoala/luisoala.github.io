@@ -29,9 +29,8 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=v3ybnf0AAAA
 * **[2024-12-13]** *Croissant: A Metadata Format for ML-Ready Datasets* **[[abstract]](https://neurips.cc/virtual/2024/poster/97627)** **[[slides]](https://neurips.cc/media/neurips-2024/Slides/97627.pdf)** **[[poster]](https://docs.google.com/presentation/d/1m_YH1CorDqr7CJWyEzbLruAejrDAnk8MWyGfV8uX9rk/edit?usp=sharing)** Poster @ NeurIPS 2024 - Vancouver, Canada
 * **[2024-12-11]** *Generative Fractional Diffusion Models* **[[abstract]](https://neurips.cc/virtual/2024/poster/96210)** **[[slides]](https://neurips.cc/media/neurips-2024/Slides/96210.pdf)** **[[poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/96210.png?t=1733531281.51479)** Poster @ NeurIPS 2024 - Vancouver, Canada
 * **[2024-12-04]** *A Fever Dream of Machine Learning Framework Composability* **[[abstract]](https://www.microsoft.com/en-us/research/video/a-fever-dream-of-machine-learning-framework-composability/)** **[[video]](https://www.microsoft.com/en-us/research/video/a-fever-dream-of-machine-learning-framework-composability/)** Invited Talk @ Microsoft Research - Nairobi, Kenya
-* neurips 2024 1
-* neurips 2024 2
-* indaba
+* **[2024-09-02]** *Paradoxes in Data-Centric Machine Learning* **[[slides]](https://docs.google.com/presentation/d/1aPRdXlrn--6rj9q72WCwIPCNv37BLu8K4g94eQAWXzM/edit?usp=sharing)** **[[abstract]](https://deeplearningindaba.com/2024/programme-2024/speakers/)** Invited Talk @ Deep Learning Indaba 2024 - Dakar, Senegal
+* **[2023-11-30]** *Metrological Machine Learning (2ML)* **[[slides]](https://docs.google.com/presentation/d/1_oUOoxtg0UZALozKn5ejiuy3BEFMUX1VlIvTNnFfG_8/edit?usp=sharing)** **[[program]](https://sites.google.com/view/bip-2023/program?authuser=0)** Invited Talk @ IEEE BIP Tecnológico de Costa Rica - San Carlos, Costa Rica
 * neurips 2023 1
 * ai for good
 * mihaela exchange
