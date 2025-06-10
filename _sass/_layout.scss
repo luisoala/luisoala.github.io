@@ -64,3 +64,33 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+// About page flex layout
+.about-flex {
+  display: flex;
+  align-items: flex-start;
+  gap: 2em;
+}
+
+.profile {
+  flex: 0 0 200px;
+  max-width: 200px;
+}
+
+.about-text {
+  flex: 1 1 0;
+}
+
+@media (max-width: 700px) {
+  .about-flex {
+    flex-direction: column;
+    align-items: center;
+  }
+  .profile {
+    max-width: 60%;
+    margin-bottom: 1em;
+  }
+  .about-text {
+    width: 100%;
+  }
+}
