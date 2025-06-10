@@ -42,6 +42,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=v3ybnf0AAAA
 * **2022.05.23** **\|** *The Audit of a Diabetic Retinopathy Classification Model* **\|** **[[poster]](https://sail.health/wp-content/uploads/2023/02/luisoala-health.aiaudit.org-sail2022.pptx-Luis-Oala.pdf)** **\|** Poster @ SAIL 2022 **\|** *Hamilton, Bermuda*
 * **2021.03.17** **\|** *Interval Neural Networks as Instability Detectors for Image Reconstructions* **\|** **[[recording]](https://youtu.be/rwQk9yXHsdQ?si=SWs8K0ZvSxgg8S2o)** **[[program]](https://www.bvm-conf.org/de/archiv/bvm-2021/)** **[[paper]](https://arxiv.org/abs/2003.13471)** **\|** Contributed Talk<sup>*best paper award*</sup> @ BVM 2021 **\|** *Regensburg, Germany*
 * **2020.12.11** **\|** *ML4H Auditing: From Paper to Practice* **\|** **[[recording]](https://slideslive.com/38941015/ml4h-auditing-from-paper-to-practice?ref=speaker-37644)** **[[poster]](https://drive.google.com/file/d/1-qV-PcShaeOxZTAwqTtmuW8iDvDbf02M/view)** **[[paper]](https://proceedings.mlr.press/v136/oala20a.html)** **\|** Contributed Talk<sup>*spotlight*</sup> @ ML4H 2020 **\|** *Cyberspace*
+* **2020.07.17** **\|** *Detecting Failure Modes in Image Reconstructions with Interval Neural Network Uncertainty* **\|** **[[recording]](https://slideslive.com/38930948/detecting-failure-modes-in-image-reconstructions-with-interval-neural-network-uncertainty?ref=speaker-37644)** **[[paper]](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-011.pdf)** **[[program]](https://sites.google.com/view/udlworkshop2020/accepted-papers?authuser=0)** **\|** Contributed Talk<sup>*spotlight*</sup> @ ICML UDL 2020 **\|** *Cyberspace*
 * **2020.01.22** **\|** *AI Test Metric Specification* **\|** **[[slides]](https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/docs/FGAI4H-H-036.pptx)** **\|** Invited Talk @ WHO PAHO **\|** *Brasilia, Brazil*
 * **2019.11.12** **\|** *Data and AI Solution Assessment Methods* **\|** **[[slides]](https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/docs/FGAI4H-G-041.pptx)** **\|** Invited Talk @ Department of Telecommunications of India **\|** *New Delhi, India*
 * **2019.09.04** **\|** *Data and AI Solution Assessment Methods* **\|** **[[slides]](https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/docs/FGAI4H-F-032-A01.pptx)** **\|** Invited Talk @ Universal Communications Service Access Fund of Tanzania **\|** *Zanzibar, Tanzania*
@@ -51,9 +52,16 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=v3ybnf0AAAA
 <!--
 * posters neurips, icml, iclr
 * workshop chair
-* icml -> spotlight
+* ai for good
+* https://aiforgood.itu.int/event/designing-machine-learning-processes-for-equitable-health-systems/
+* https://aiforgood.itu.int/event/medperf-an-open-benchmarking-platform-for-medical-ai/
+* https://aiforgood.itu.int/event/detecting-and-characterizing-systematic-deviations-in-data-and-model-outputs-in-healthcare/
+* https://aiforgood.itu.int/event/enabling-a-responsive-and-agile-performance-evaluation-of-ai-based-digital-diagnostics/ 
 * chil
 * iclr workshops
+* other icml workshop
+* -> highlight all the places
+* industry sessions: bayer, embl, google, tec, ..., 
 * **..** **\|** *...* **\|** **[[...]](...)** **\|** ... @ ... **\|** *...*
 
 
