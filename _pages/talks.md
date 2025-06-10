@@ -6,73 +6,26 @@ description:
 nav: false
 nav-order: b
 ---
-## More Than Meets The Eye: Semi-supervised Learning Under Non-IID Data
-**ICLR 2021 RobustML Workshop** | **April 2020** | [**Paper**](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-031) | [**Code**](https://github.com/luisoala/non-iid-ssdl) | [**Poster**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/posters/Poster_ICLR_2021_v2%20(1).pdf)
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/poster/iclr-ssdl.png" data-zoomable>
-    </div>
-</div>
-<br>
-
-## Post-Hoc Domain Adaptation via Guided Data Homogenization
-**ICLR 2021 RobustML Workshop** | **April 2020** | [**Paper**](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-062) | [**Code**](https://github.com/willisk/GDH) | [**Poster**]()
-## ML4H Auditing: From Paper to Practice (Spotlight)
-**NeurIPS 2020 ML4H Workshop** | **December 2020** | [**Paper**](http://proceedings.mlr.press/v136/oala20a.html) | [**Poster**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/posters/76_poster%20(1).pdf) | [**Slides**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/slides/ML4H_NeurIPS2020_Slides.pdf)
-
-<div id="presentation-embed-38941015"></div>
-<script src='https://slideslive.com/embed_presentation.js'></script>
-<script>
-    embed = new SlidesLiveEmbed('presentation-embed-38941015', {
-        presentationId: '38941015',
-        autoPlay: false, // change to true to autoplay the embedded presentation
-        verticalEnabled: true
-    });
-</script>
-<br>
-
-## High-d (Heidi) Swiss Army Knife
-**HHI AI Department Seminar** | **August 2020** | [**Slides**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/slides/high_d_swiss_army_knife%20(2).pdf)
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/talks/highd.png" data-zoomable>
-    </div>
-</div>
-<br>
-
-## Detecting failure modes in image reconstructions with interval neural network uncertainty
-**ICML UDL 2020 (Spotlight)** | **July 2020** | [**Paper**](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-011.pdf) | [**Code**](https://github.com/luisoala/inn) | [**Slides**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/slides/UDL2020_slides%20(9).pdf)
-
-<div id="presentation-embed-38930948"></div>
-<script src='https://slideslive.com/embed_presentation.js'></script>
-<script>
-    embed = new SlidesLiveEmbed('presentation-embed-38930948', {
-        presentationId: '38930948',
-        autoPlay: false, // change to true to autoplay the embedded presentation
-        verticalEnabled: true
-    });
-</script>
-<br>
-
-**ACM CHIL 2020** | **July 2020** | [**Paper**](https://link.springer.com/article/10.1007/s11548-021-02482-2) | [**Code**](https://github.com/luisoala/inn) | [**Slides**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/slides/CHIL2020_slides_1.pdf)
-
-<div id="presentation-embed-38931985"></div>
-<script src='https://slideslive.com/embed_presentation.js'></script>
-<script>
-    embed = new SlidesLiveEmbed('presentation-embed-38931985', {
-        presentationId: '38931985',
-        autoPlay: false, // change to true to autoplay the embedded presentation
-        verticalEnabled: true
-    });
-</script>
-<br>
-
-## Transformers
-**Papers & Cookies Seminar** | **November 2018** | [**Slides**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/slides/transformers.pdf)
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/talks/transformer.png" data-zoomable>
-    </div>
+* **2025.03.17** **\|** *Data Market for Healthcare AI* **\|** **[[slides]](https://docs.google.com/presentation/d/1TAcBq5es4lIO7WNsIwKCGQ_DudX2C95W/edit?usp=sharing&ouid=113649714624093932372&rtpof=true&sd=true)** **[[notes]](https://drive.google.com/file/d/1J6CgCLJ3kR66-oZarMc0FxeBNJsuS_Zo/view?usp=sharing)** **\|** Invited Talk @ National University Singapore **\|** *Singapore*
+* **2024.12.13** **\|** *Croissant: A Metadata Format for ML-Ready Datasets* **\|** **[[abstract]](https://neurips.cc/virtual/2024/poster/97627)** **[[slides]](https://neurips.cc/media/neurips-2024/Slides/97627.pdf)** **[[poster]](https://docs.google.com/presentation/d/1m_YH1CorDqr7CJWyEzbLruAejrDAnk8MWyGfV8uX9rk/edit?usp=sharing)** **\|** Poster<sup>*spotlight*</sup> @ NeurIPS 2024 **\|** *Vancouver, Canada*
+* **2024.12.11** **\|** *Generative Fractional Diffusion Models* **\|** **[[abstract]](https://neurips.cc/virtual/2024/poster/96210)** **[[slides]](https://neurips.cc/media/neurips-2024/Slides/96210.pdf)** **[[poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/96210.png?t=1733531281.51479)** **\|** Poster @ NeurIPS 2024 **\|** *Vancouver, Canada*
+* **2024.12.04** **\|** *A Fever Dream of Machine Learning Framework Composability* **\|** **[[abstract]](https://www.microsoft.com/en-us/research/video/a-fever-dream-of-machine-learning-framework-composability/)** **[[video]](https://www.microsoft.com/en-us/research/video/a-fever-dream-of-machine-learning-framework-composability/)** **\|** Invited Talk @ Microsoft Research **\|** *Nairobi, Kenya*
+* **2024.09.17** **\|** *Dotphoton: Your Image Data, Fit for AI* **\|** **[[slides]](https://drive.google.com/file/d/1A5UdfQMFT0FBvKLkQ-tuXJFW5i8y-3q3/view?usp=sharing)** **\|** Invited Talk @ Innosuisse **\|** *San Francisco, USA*
+* **2024.09.02** **\|** *Paradoxes in Data-Centric Machine Learning* **\|** **[[slides]](https://docs.google.com/presentation/d/1aPRdXlrn--6rj9q72WCwIPCNv37BLu8K4g94eQAWXzM/edit?usp=sharing)** **[[abstract]](https://deeplearningindaba.com/2024/programme-2024/speakers/)** **\|** Invited Talk @ Deep Learning Indaba 2024 **\|** *Dakar, Senegal*
+* **2024.06.09** **\|** *Croissant: A Metadata Format for ML-Ready Datasets* **\|** **[[paper]](https://dl.acm.org/doi/abs/10.1145/3650203.3663326)** **[[slides]](https://docs.google.com/presentation/d/16HEeGCOGx_q6piPn_Uzrt8iXVKhnPgHPJN6qE-NFUuE/edit?usp=sharing)** **\|** Contributed Talk<sup>*best paper award*</sup> @ SIGMOD/PODS Data Management for End-to-End Machine Learning Workshop **\|** *Santiago, Chile*
+* **2024.05.31** **\|** *From Diverse Datasets to United Nations Public Good Tasks* **\|** **[[program]](https://aiforgood.itu.int/event/from-diverse-datasets-to-united-nations-public-good-tasks/)** **[[slides]](https://docs.google.com/presentation/d/1Tt3qZYA4JC7JENiSkNYInrKhl-wT3mIuim9TC6IVByY/edit?usp=sharing)** **\|** Opening Remarks @ ITU AI for Good Summit **\|** *Geneva, Switzerland*
+* **2024.01.12** **\|** *DTX (Data-Transform Exchange): A Protocol for Composable Data and Transform Transactions* **\|** **[[slides]](https://docs.google.com/presentation/d/1Mcpwpn9Mf7wFribCvljPuxgcTF1q2Lw3-ABWqTqC_A0/edit?usp=sharing)** **\|** Session Chair @ Schloss Dagstuhl Open Machine Learning 2024 Winter Workshop **\|** *Dagstuhl, Germany*
+* **2023.12.12.** **\|** *DiffInfinite: Large Mask-Image Synthesis via Parallel Random Patch Diffusion in Histopathology* **\|** **[[abstract]](https://neurips.cc/virtual/2023/poster/73598)** **\|** Poster<sup>*spotlight*</sup> @ NeurIPS 2023 **\|** *New Orleans, USA*
+* **2023.11.30** **\|** *Metrological Machine Learning (2ML)* **\|** **[[slides]](https://docs.google.com/presentation/d/1_oUOoxtg0UZALozKn5ejiuy3BEFMUX1VlIvTNnFfG_8/edit?usp=sharing)** **[[program]](https://sites.google.com/view/bip-2023/program?authuser=0)** **\|** Invited Talk @ IEEE BIP Tecnológico de Costa Rica **\|** *San Carlos, Costa Rica*
+* **2023.11.01** **\|** *Metrological Machine Learning (2ML)* **\|** **[[slides]](https://docs.google.com/presentation/d/19HeJ2HO5E_hg14ZLow8nDt68Y5IcJnXI-psW-vjIJ2s/edit?usp=sharing)** **[[report]](https://cdn.who.int/media/docs/default-source/digital-health-documents/first-meeting-of-global-initiative-on-ai-for-health.pdf?sfvrsn=92da86d4_3&download=true)** **\|** Invited Talk @ King Abdulaziz City for Science and Technology (KACST) **\|** *Riyadh, Saudi Arabia*
+* **2023.10.02** **\|** *Inspiration Exchange - Data-Centric AI* **\|** **[[recording]](https://www.youtube.com/watch?v=jg0NAkNbOSg&ab_channel=vanderSchaarLab)** **\|** Panelist @ Mihaela van der Schaar Lab University of Cambridge **\|** *Cyberspace*
+* **2023.07.12** **\|** *Interview* **\|** **[[abstract]](https://stephenibaraki.com/ieee-tems/interviews/v0723/luis_oala_ieee-tems.html)** **[[raw video]](https://www.youtube.com/watch?v=SxzQQwQN-dY&ab_channel=StephenIbaraki)** **\|** Interview @ IEEE TEMS/ACM with Stephen Ibaraki **\|** *Cyberspace*
+* **2023.03.24** **\|** *Data and AI solution Assessment Methods* **\|** **[[slides]](https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/docs/FGAI4H-R-059.pptx)** **\|** Invited Talk @ Harvard University **\|** *Cambridge, USA*
+* **2023.01.10** **\|** *DMLR: Data-centric Machine Learning Research - Past, Present and Future* **\|** **[[notes]](https://data.mlr.press/assets/pdf/v01-5.pdf)** **\|** Session Chair @ Asilomar Retreat on Future of Datasets **\|** *Monterey, USA*
+* **2022.05.23** **\|** *The Audit of a Diabetic Retinopathy Classification Model* **\|** **[[poster]](https://sail.health/wp-content/uploads/2023/02/luisoala-health.aiaudit.org-sail2022.pptx-Luis-Oala.pdf)** **\|** Poster @ SAIL 2022 **\|** *Hamilton, Bermuda*
+* **2021.03.17** **\|** *Interval Neural Networks as Instability Detectors for Image Reconstructions* **\|** **[[recording]](https://youtu.be/rwQk9yXHsdQ?si=SWs8K0ZvSxgg8S2o)** **[[program]](https://www.bvm-conf.org/de/archiv/bvm-2021/)** **[[paper]](https://arxiv.org/abs/2003.13471)** **\|** Contributed Talk<sup>*best paper award*</sup> @ BVM 2021 **\|** *Regensburg, Germany*
+* **2020.12.11** **\|** *ML4H Auditing: From Paper to Practice* **\|** **[[recording]](https://slideslive.com/38941015/ml4h-auditing-from-paper-to-practice?ref=speaker-37644)** **[[poster]](https://drive.google.com/file/d/1-qV-PcShaeOxZTAwqTtmuW8iDvDbf02M/view)** **[[paper]](https://proceedings.mlr.press/v136/oala20a.html)** **\|** Contributed Talk<sup>*spotlight*</sup> @ ML4H 2020 **\|** *Cyberspace*
+* **2020.01.22** **\|** *AI Test Metric Specification* **\|** **[[slides]](https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/docs/FGAI4H-H-036.pptx)** **\|** Invited Talk @ WHO PAHO **\|** *Brasilia, Brazil*
+* **2019.11.12** **\|** *Data and AI Solution Assessment Methods* **\|** **[[slides]](https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/docs/FGAI4H-G-041.pptx)** **\|** Invited Talk @ Department of Telecommunications of India **\|** *New Delhi, India*
+* **2019.09.04** **\|** *Data and AI Solution Assessment Methods* **\|** **[[slides]](https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/docs/FGAI4H-F-032-A01.pptx)** **\|** Invited Talk @ Universal Communications Service Access Fund of Tanzania **\|** *Zanzibar, Tanzania*

@@ -28,8 +28,24 @@ body.sticky-bottom-footer {
 
 // Profile
 .profile {
+  float: left;
+  max-width: 200px;
+  margin-right: 2em;
+  margin-bottom: 1em;
   img {
     width: 100%;
+    height: auto;
+    display: block;
+  }
+}
+
+@media (max-width: 700px) {
+  .profile {
+    float: none;
+    display: block;
+    margin: 0 auto 1em auto;
+    max-width: 60%;
+    text-align: center;
   }
 }
 
