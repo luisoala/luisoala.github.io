@@ -12,11 +12,12 @@ social: false  # includes social icons at the bottom of the page
 
 <div style="clear: both"></div>
 
-<div class="talks-list">
 #### Writing
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=v3ybnf0AAAAJ&view_op=list_works&sortby=pubdate)
 
 #### Talks and Presentations
+
+<div class="talks-list">
 
 * **2025.03.17** **\|** *Data Market for Healthcare AI* **\|** **[[slides]](https://docs.google.com/presentation/d/1TAcBq5es4lIO7WNsIwKCGQ_DudX2C95W/edit?usp=sharing&ouid=113649714624093932372&rtpof=true&sd=true)** **[[notes]](https://drive.google.com/file/d/1J6CgCLJ3kR66-oZarMc0FxeBNJsuS_Zo/view?usp=sharing)** **\|** Invited Talk @ National University Singapore **\|** *Singapore*
 * **2024.12.13** **\|** *Croissant: A Metadata Format for ML-Ready Datasets* **\|** **[[abstract]](https://neurips.cc/virtual/2024/poster/97627)** **[[slides]](https://neurips.cc/media/neurips-2024/Slides/97627.pdf)** **[[poster]](https://docs.google.com/presentation/d/1m_YH1CorDqr7CJWyEzbLruAejrDAnk8MWyGfV8uX9rk/edit?usp=sharing)** **\|** Poster<sup>*spotlight*</sup> @ NeurIPS 2024 **\|** *Vancouver, Canada*
