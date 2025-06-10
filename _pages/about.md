@@ -53,8 +53,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=v3ybnf0AAAA
 <!--
 * posters neurips, icml, iclr
 * workshop chair
-* iclr
-* ai4h: zanzibar, brasilia, new delhi
+* icml -> spotlight
+* chil
+* iclr workshops
 * **..** **\|** *...* **\|** **[[...]](...)** **\|** ... @ ... **\|** *...*
 
 
