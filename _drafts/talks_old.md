@@ -10,7 +10,7 @@ nav-order: b
 **ICLR 2021 RobustML Workshop** | **April 2020** | [**Paper**](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-031) | [**Code**](https://github.com/luisoala/non-iid-ssdl) | [**Poster**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/posters/Poster_ICLR_2021_v2%20(1).pdf)
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">git
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/poster/iclr-ssdl.png" data-zoomable>
     </div>
 </div>
