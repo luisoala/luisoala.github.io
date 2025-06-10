@@ -1,7 +1,7 @@
 ---
 layout: page
-title: short bio
-permalink: /short-bio/
+title: Speaker Kit
+permalink: /speaker-kit/
 description:
 nav: false
 nav-order: b
@@ -15,3 +15,8 @@ He also enjoys promoting opportunities for community. He helped initiate machine
 He is Head of Machine Learning at Swiss company [Dotphoton](https://www.dotphoton.com/) and a PhD research scientist at the [Department of Artificial Intelligence](https://www.hhi.fraunhofer.de/en/departments/ai.html) of [Wojciech Samek](http://iphome.hhi.de/samek/) at [Fraunhofer HHI](https://www.hhi.fraunhofer.de/en.html) in Berlin, Germany.
 
 
+Portrait Close: [https://luisoala.net/assets/img/mugshots/portrait.jpg](https://luisoala.net/assets/img/mugshots/portrait.jpg)
+
+Portrait Wide: [https://luisoala.net/assets/img/mugshots/portrait-wide.jpg](https://luisoala.net/assets/img/mugshots/portrait-wide.jpg)
+
+Feel free to crop portraits to the specs of your presentation materials.
