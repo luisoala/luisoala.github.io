@@ -2,12 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: <!-- Head of Machine Learning @ <a href="https://dotphoton.com"> Dotphoton </a> building towards <a href="https://metrological.ml"> metrological.ml </a> <br> PhD Student @ <a href="http://iphome.hhi.de/samek/"> Department of Artificial Intelligence **\|** Fraunhofer Heinrich Hertz Institute (HHI) </a> # <br> WG Chair @ <a href="https://www.itu.int/en/ITU-T/focusgroups/ai4h/Pages/default.aspx">ITU/WHO Focus Group on AI for Health</a> <br> Co-organizer @ <a href="https://aiaudit.org">aiaudit.org </a> -->
-
+subtitle:
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+
 <img src="/assets/img/prof_pic.jpg" class="profile" alt="Profile picture" />
 
 Hi I am Luis. I am interested in composable systems for measuring, optimizing and exchanging data states across the entire data generating process in machine learning.
