@@ -12,6 +12,7 @@ social: false  # includes social icons at the bottom of the page
 
 <div style="clear: both"></div>
 
+<div class="talks-list">
 #### Writing
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=v3ybnf0AAAAJ&view_op=list_works&sortby=pubdate)
 
@@ -39,6 +40,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=v3ybnf0AAAA
 * **2020.01.22** **\|** *AI Test Metric Specification* **\|** **[[slides]](https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/docs/FGAI4H-H-036.pptx)** **\|** Invited Talk @ WHO PAHO **\|** *Brasilia, Brazil*
 * **2019.11.12** **\|** *Data and AI Solution Assessment Methods* **\|** **[[slides]](https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/docs/FGAI4H-G-041.pptx)** **\|** Invited Talk @ Department of Telecommunications of India **\|** *New Delhi, India*
 * **2019.09.04** **\|** *Data and AI Solution Assessment Methods* **\|** **[[slides]](https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/docs/FGAI4H-F-032-A01.pptx)** **\|** Invited Talk @ Universal Communications Service Access Fund of Tanzania **\|** *Zanzibar, Tanzania*
+</div>
 
 
 
