@@ -37,8 +37,13 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=v3ybnf0AAAA
 * **[2023-11-01]** *Metrological Machine Learning (2ML)* **[[slides]](https://docs.google.com/presentation/d/19HeJ2HO5E_hg14ZLow8nDt68Y5IcJnXI-psW-vjIJ2s/edit?usp=sharing)** **[[report]](https://cdn.who.int/media/docs/default-source/digital-health-documents/first-meeting-of-global-initiative-on-ai-for-health.pdf?sfvrsn=92da86d4_3&download=true)** \| Invited Talk @ King Abdulaziz City for Science and Technology (KACST) \| *Riyadh, Saudi Arabia*
 * **[2023-10-02]** *Inspiration Exchange - Data-Centric AI* **[[recording]](https://www.youtube.com/watch?v=jg0NAkNbOSg&ab_channel=vanderSchaarLab)** \| Panelist @ Mihaela van der Schaar Lab University of Cambridge \| *Cyberspace*
 * **[2023-07-12]** *Interview* **[[abstract]](https://stephenibaraki.com/ieee-tems/interviews/v0723/luis_oala_ieee-tems.html)** **[[raw video]](https://www.youtube.com/watch?v=SxzQQwQN-dY&ab_channel=StephenIbaraki)** \| Interview @ IEEE TEMS/ACM with Stephen Ibaraki \| *Cyberspace*
+* **[...]** *...* **[[...]](...)** \| ... @ ... \| *Cambridge, USA*
 * **[2022-05-23]** *The Audit of a Diabetic Retinopathy Classification Model* **[[poster]](https://sail.health/wp-content/uploads/2023/02/luisoala-health.aiaudit.org-sail2022.pptx-Luis-Oala.pdf)** \| Poster @ SAIL 2022 \| *Hamilton, Bermuda*
+* **[2021-03-17]** *Interval Neural Networks as Instability Detectors for Image Reconstructions* **[[recording]](https://youtu.be/rwQk9yXHsdQ?si=SWs8K0ZvSxgg8S2o)** **[[program]](https://www.bvm-conf.org/de/archiv/bvm-2021/)** **[[paper]](https://arxiv.org/abs/2003.13471)** \| Contributed Talk<sup>*best paper award*</sup> @ BVM 2021 \| *Regensburg, Germany*
 * **[2020-12-11]** *ML4H Auditing: From Paper to Practice* **[[recording]](https://slideslive.com/38941015/ml4h-auditing-from-paper-to-practice?ref=speaker-37644)** **[[poster]](https://drive.google.com/file/d/1-qV-PcShaeOxZTAwqTtmuW8iDvDbf02M/view)** **[[paper]](https://proceedings.mlr.press/v136/oala20a.html)** \| Contributed Talk<sup>*spotlight*</sup> @ ML4H 2020 \| *Cyberspace*
+* **[...]** *...* **[[...]](...)** \| ... @ ... \| *Brasilia, Brazil*
+* **[...]** *...* **[[...]](...)** \| ... @ ... \| *New Delhi, India*
+* **[...]** *...* **[[...]](...)** \| ... @ ... \| *Zanzibar, Tanzania*
 
 
 
@@ -51,6 +56,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=v3ybnf0AAAA
 * swissnext
 * asilomar
 * dagstuhl
+* **[...]** *...* **[[...]](...)** \| ... @ ... \| *...*
 
 
 
