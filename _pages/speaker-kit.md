@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speaker Kit
+title: Luis Oala - speaker kit
 permalink: /speaker-kit/
 description:
 nav: false

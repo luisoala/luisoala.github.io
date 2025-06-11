@@ -30,8 +30,8 @@ body.sticky-bottom-footer {
 .profile {
   float: left;
   max-width: 200px;
-  margin-right: 2em;
-  margin-bottom: 1em;
+  margin-right: 1.2em;
+  margin-bottom: 0.6em;
   img {
     width: 100%;
     height: auto;
@@ -43,7 +43,7 @@ body.sticky-bottom-footer {
   .profile {
     float: none;
     display: block;
-    margin: 0 auto 1em auto;
+    margin: 0 auto 0.6em auto;
     max-width: 60%;
     text-align: center;
   }
@@ -75,6 +75,8 @@ body.sticky-bottom-footer {
 .profile {
   flex: 0 0 200px;
   max-width: 200px;
+  margin-right: 1.2em;
+  margin-bottom: 0.6em;
 }
 
 .about-text {
