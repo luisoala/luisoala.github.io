@@ -43,9 +43,14 @@ body.sticky-bottom-footer {
   .profile {
     float: left;
     display: inline;
-    max-width: 33vw;
+    max-width: 33vw !important;
+    width: 33vw !important;
     margin: 0 1em 0.4em 0;
     text-align: left;
+  }
+  .profile img {
+    width: 100% !important;
+    height: auto !important;
   }
   .about-text {
     width: 100%;

@@ -39,6 +39,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=v3ybnf0AAAA
 * **2023.07.12** **\|** *Interview* **\|** **[[abstract]](https://stephenibaraki.com/ieee-tems/interviews/v0723/luis_oala_ieee-tems.html)** **[[raw video]](https://www.youtube.com/watch?v=SxzQQwQN-dY&ab_channel=StephenIbaraki)** **\|** Interview @ IEEE TEMS/ACM with Stephen Ibaraki **\|** *Cyberspace*
 * **2023.03.24** **\|** *Data and AI solution Assessment Methods* **\|** **[[slides]](https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/docs/FGAI4H-R-059.pptx)** **\|** Invited Talk @ Harvard University **\|** *Cambridge, USA*
 * **2023.01.10** **\|** *DMLR: Data-centric Machine Learning Research - Past, Present and Future* **\|** **[[notes]](https://data.mlr.press/assets/pdf/v01-5.pdf)** **\|** Session Chair @ Asilomar Retreat on Future of Datasets **\|** *Monterey, USA*
+* **2022.11.28** **\|** *Q\&A: Emmanuel Candes* **\|** **[[recording]](https://slideslive.com/embed/presentation/38995943)** **[[program]](https://ml4h.cc/2022/schedule.html)** **\|** Session Chair @ ML4H 2022 **\|** *New Orleans, USA*
+* **2022.11.28** **\|** *Q\&A: Ben Recht* **\|** **[[recording]](https://slideslive.com/embed/presentation/38995943)** **[[program]](https://ml4h.cc/2022/schedule.html)** **\|** Session Chair @ ML4H 2022 **\|** *New Orleans, USA*
+* **2022.11.28** **\|** *Panel with Himabindu Lakkaraju, Zack Lipton & Mihaela van der Schaar* **\|** **[[recording]](https://slideslive.com/embed/presentation/38995943)** **[[program]](https://ml4h.cc/2022/schedule.html)** **\|** Session Chair @ ML4H 2022 **\|** *New Orleans, USA*
 * **2022.05.23** **\|** *The Audit of a Diabetic Retinopathy Classification Model* **\|** **[[poster]](https://sail.health/wp-content/uploads/2023/02/luisoala-health.aiaudit.org-sail2022.pptx-Luis-Oala.pdf)** **\|** Poster @ SAIL 2022 **\|** *Hamilton, Bermuda*
 * **2021.03.17** **\|** *Interval Neural Networks as Instability Detectors for Image Reconstructions* **\|** **[[recording]](https://youtu.be/rwQk9yXHsdQ?si=SWs8K0ZvSxgg8S2o)** **[[program]](https://www.bvm-conf.org/de/archiv/bvm-2021/)** **[[paper]](https://arxiv.org/abs/2003.13471)** **\|** Contributed Talk<sup>*best paper award*</sup> @ BVM 2021 **\|** *Regensburg, Germany*
 * **2020.12.11** **\|** *ML4H Auditing: From Paper to Practice* **\|** **[[recording]](https://slideslive.com/38941015/ml4h-auditing-from-paper-to-practice?ref=speaker-37644)** **[[poster]](https://drive.google.com/file/d/1-qV-PcShaeOxZTAwqTtmuW8iDvDbf02M/view)** **[[paper]](https://proceedings.mlr.press/v136/oala20a.html)** **\|** Contributed Talk<sup>*spotlight*</sup> @ ML4H 2020 **\|** *Cyberspace*
@@ -46,6 +49,12 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=v3ybnf0AAAA
 * **2020.01.22** **\|** *AI Test Metric Specification* **\|** **[[slides]](https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/docs/FGAI4H-H-036.pptx)** **\|** Invited Talk @ WHO PAHO **\|** *Brasilia, Brazil*
 * **2019.11.12** **\|** *Data and AI Solution Assessment Methods* **\|** **[[slides]](https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/docs/FGAI4H-G-041.pptx)** **\|** Invited Talk @ Department of Telecommunications of India **\|** *New Delhi, India*
 * **2019.09.04** **\|** *Data and AI Solution Assessment Methods* **\|** **[[slides]](https://extranet.itu.int/sites/itu-t/focusgroups/ai4h/docs/FGAI4H-F-032-A01.pptx)** **\|** Invited Talk @ Universal Communications Service Access Fund of Tanzania **\|** *Zanzibar, Tanzania*
+
+
+* panel w zack
+* qa with emmanuel candes
+* qa w ben recht
+
 
 
 
