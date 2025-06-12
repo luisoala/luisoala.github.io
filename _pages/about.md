@@ -76,6 +76,7 @@ $$ \text{⮤}_{t+some} $$ ∿ $$ ^{t-some}\text{⮧} $$
 
 $$ \text{⮤}_{t+some} $$  
 $$ \text{⮦}^{t-some} $$
+..
 
 
 
