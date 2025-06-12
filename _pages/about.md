@@ -19,7 +19,7 @@ I am Head of Machine Learning at Swiss company [Dotphoton](https://www.dotphoton
 <div style="clear: both"></div>
 
 ##### **Writing**
-See [Google Scholar](https://scholar.google.com/citations?hl=en&user=v3ybnf0AAAAJ&view_op=list_works&sortby=pubdate)
+See [Google Scholar](https://scholar.google.com/citations?user=v3ybnf0AAAAJ&hl=en)
 
 ##### **Talks and Presentations**
 
