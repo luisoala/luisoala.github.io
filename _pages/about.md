@@ -24,7 +24,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=v3ybnf0AAAAJ&hl=e
 ##### **Talks and Presentations**
 
 * **2025.09.18** **\|** *A Fever Dream of Machine Learning Framework Composability: Croissant and Beyond* **\|** **[[program]](https://www.bifold.berlin/education/summerschool/summerschool2025/speaker)** **\|** Invited Talk @ 2025 Berlin Summer School of Artificial Intelligence and Society **\|** *Berlin, Germany*  
-**⌃** { \footnotesize $$ t+some $$ } **⌃**•**⌄** { \footnotesize $$ t-some $$ } **⌄**
+**⌃**$$ t+some $$**⌃**•**⌄**$$ t-some $$**⌄**
 * **2025.03.17** **\|** *Data Market for Healthcare AI* **\|** **[[slides]](https://docs.google.com/presentation/d/1TAcBq5es4lIO7WNsIwKCGQ_DudX2C95W/edit?usp=sharing&ouid=113649714624093932372&rtpof=true&sd=true)** **[[notes]](https://drive.google.com/file/d/1J6CgCLJ3kR66-oZarMc0FxeBNJsuS_Zo/view?usp=sharing)** **\|** Invited Talk @ National University Singapore **\|** *Singapore*
 * **2024.12.13** **\|** *Croissant: A Metadata Format for ML-Ready Datasets* **\|** **[[abstract]](https://neurips.cc/virtual/2024/poster/97627)** **[[slides]](https://neurips.cc/media/neurips-2024/Slides/97627.pdf)** **[[poster]](https://docs.google.com/presentation/d/1m_YH1CorDqr7CJWyEzbLruAejrDAnk8MWyGfV8uX9rk/edit?usp=sharing)** **\|** Poster<sup>*spotlight*</sup> @ NeurIPS 2024 **\|** *Vancouver, Canada*
 * **2024.12.11** **\|** *Generative Fractional Diffusion Models* **\|** **[[abstract]](https://neurips.cc/virtual/2024/poster/96210)** **[[slides]](https://neurips.cc/media/neurips-2024/Slides/96210.pdf)** **[[poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/96210.png?t=1733531281.51479)** **\|** Poster @ NeurIPS 2024 **\|** *Vancouver, Canada*
