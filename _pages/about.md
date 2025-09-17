@@ -14,7 +14,7 @@ In regular intervals, I share my ideas through writing, code and presentations s
 
 I also enjoy promoting opportunities for community. I helped initiate machine learning venues such as [Data-Centric Machine Learning Research (DMLR)](https://arxiv.org/abs/2311.13028) and [AI for Good](https://aiforgood.itu.int/eventcat/discovery-data-centric-machine-learning-for-good/) and co-chaired conferences such as [ICLR](https://iclr.cc/Conferences/2024/Committees), the [DMLR workshop](https://dmlr.ai/) series or [ML4H](https://ml4h.cc/2023/). 
 
-I am Co-Founder and Chief Data Officer of the [Brickroad](https://brickroadapp.com/) data marketplace and a final-year PhD research scientist at the [Department of Artificial Intelligence](https://www.hhi.fraunhofer.de/en/departments/ai.html) of [Wojciech Samek](http://iphome.hhi.de/samek/) at [Fraunhofer HHI](https://www.hhi.fraunhofer.de/en.html) in Berlin, Germany.
+I am Co-Founder and Chief of AI and Data at [Brickroad](https://brickroadapp.com/) data marketplace and a final-year PhD research scientist at the [Department of Artificial Intelligence](https://www.hhi.fraunhofer.de/en/departments/ai.html) of [Wojciech Samek](http://iphome.hhi.de/samek/) at [Fraunhofer HHI](https://www.hhi.fraunhofer.de/en.html) in Berlin, Germany.
 
 <div style="clear: both"></div>
 
