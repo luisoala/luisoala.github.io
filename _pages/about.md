@@ -23,6 +23,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=v3ybnf0AAAAJ&hl=e
 
 ##### **Talks and Presentations**
 
+* **2025.12.03** **\|** *A Sustainable Machine Learning Economy Needs Data Deals That Work for Generators* **\|** **[[program]](https://neurips.cc/virtual/2025/poster/121926)** **\|** Poster @ NeurIPS 2025 **\|** *San Diego, USA*
 * **2025.09.18** **\|** *A Fever Dream of Machine Learning Framework Composability: Croissant and Beyond* **\|** **[[program]](https://www.bifold.berlin/education/summerschool/summerschool2025/speaker)** **\|** Invited Talk @ 2025 Berlin Summer School of Artificial Intelligence and Society **\|** *Berlin, Germany*
 * **2025.08.24** **\|** *Intro to Data-Centric Deep Learning* **\|** **[[program]](https://www.theafricaiknow.org/ai-camp)** **\|** Invited Lecture @ 2025 TAIK AI Camp **\|** *Ethiopia, Cameroon, and Tanzania*
 * **2025.03.17** **\|** *Data Market for Healthcare AI* **\|** **[[slides]](https://docs.google.com/presentation/d/1TAcBq5es4lIO7WNsIwKCGQ_DudX2C95W/edit?usp=sharing&ouid=113649714624093932372&rtpof=true&sd=true)** **[[notes]](https://drive.google.com/file/d/1J6CgCLJ3kR66-oZarMc0FxeBNJsuS_Zo/view?usp=sharing)** **\|** Invited Talk @ National University Singapore **\|** *Singapore*
