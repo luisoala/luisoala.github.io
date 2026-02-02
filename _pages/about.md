@@ -23,6 +23,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=v3ybnf0AAAAJ&hl=e
 
 ##### **Talks and Presentations**
 
+* **2026.02.03** **\|** *On Roman Roads: Data Composition For AI & Agents* **\|** **[[program]](https://www.csail.mit.edu/event/roman-roads-data-composition-ai-agents)** **\|** Invited Talk @ MIT CSAIL **\|** *Boston, USA*
 * **2025.12.03** **\|** *A Sustainable Machine Learning Economy Needs Data Deals That Work for Generators* **\|** **[[program]](https://neurips.cc/virtual/2025/poster/121926)** **\|** Poster @ NeurIPS 2025 **\|** *San Diego, USA*
 * **2025.12.01** **\|** *The AI Economy: Flywheels for Agentic Value Creation* **\|** **[[program]](https://www.eventbrite.com/e/mlcommons-endpoints-tickets-1854300987169)** **\|** Talk @ MLCommons Endpoints 2025 **\|** *San Diego, USA*
 * **2025.09.18** **\|** *A Fever Dream of Machine Learning Framework Composability: Croissant and Beyond* **\|** **[[program]](https://www.bifold.berlin/education/summerschool/summerschool2025/speaker)** **\|** Invited Talk @ 2025 Berlin Summer School of Artificial Intelligence and Society **\|** *Berlin, Germany*
