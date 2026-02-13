@@ -116,3 +116,6 @@
             </div>
             {% include scripts/wechatModal.html %}
             {% endif %}
+            {%- if site.music_url -%}
+            <a href="{{ site.music_url }}" title="Music"><i class="fas fa-music"></i></a>
+            {% endif %}
