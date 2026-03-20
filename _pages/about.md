@@ -22,7 +22,8 @@ I am Co-Founder and Chief AI Officer at [Brickroad](https://brickroadapp.com/) a
 See [Google Scholar](https://scholar.google.com/citations?user=v3ybnf0AAAAJ&hl=en)
 
 ##### **Talks and Presentations**
-
+* **2026.05.05** **\|** *The Data Multiplexer: Flywheel for Data Flow in the Agent Economy* **\|** **[[program]](https://www.datamakersfest.com/agenda#sz-tab-46147)** **\|** Invited Talk @ Datamakers Fest **\|** *Porto, Portugal*
+* **2026.03.27** **\|** *Data standards for health AI: Benchmarking, metadata and federated data discovery* **\|** **[[program]](https://aiforgood.itu.int/event/data-standards-for-health-ai-benchmarking-metadata-and-federated-data-discovery/)** **\|** Invited Talk @ AI for Good **\|** *Geneva, Switzerland*
 * **2026.02.03** **\|** *On Roman Roads: Data Composition For AI & Agents* **\|** **[[program]](https://www.csail.mit.edu/event/roman-roads-data-composition-ai-agents)** **\|** Invited Talk @ MIT CSAIL **\|** *Boston, USA*
 * **2025.12.03** **\|** *A Sustainable Machine Learning Economy Needs Data Deals That Work for Generators* **\|** **[[program]](https://neurips.cc/virtual/2025/poster/121926)** **\|** Poster @ NeurIPS 2025 **\|** *San Diego, USA*
 * **2025.12.01** **\|** *The AI Economy: Flywheels for Agentic Value Creation* **\|** **[[program]](https://www.eventbrite.com/e/mlcommons-endpoints-tickets-1854300987169)** **\|** Talk @ MLCommons Endpoints 2025 **\|** *San Diego, USA*
