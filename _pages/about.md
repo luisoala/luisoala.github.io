@@ -14,7 +14,7 @@ In regular intervals, I share my ideas through writing, code and presentations s
 
 I also enjoy promoting opportunities for community across engineering and the arts. I helped initiate machine learning venues such as [Data-Centric Machine Learning Research (DMLR)](https://arxiv.org/abs/2311.13028) and [AI for Good](https://aiforgood.itu.int/eventcat/discovery-data-centric-machine-learning-for-good/) and co-chaired conferences such as [ICLR](https://iclr.cc/Conferences/2024/Committees), the [DMLR workshop](https://dmlr.ai/) series or [ML4H](https://ml4h.cc/2023/). Together with my brother I run the music label [Elektroinstallation Monopohl](https://monopohlisten.de/).
 
-I am Co-Founder and Chief AI Officer at [Brickroad](https://brickroadapp.com/) and a final-year PhD research scientist at the [Department of Artificial Intelligence](https://www.hhi.fraunhofer.de/en/departments/ai.html) of [Wojciech Samek](http://iphome.hhi.de/samek/) at [Fraunhofer HHI](https://www.hhi.fraunhofer.de/en.html) in Berlin, Germany.
+I am Co-Founder and Chief AI Officer at [Brickroad](https://brickroad.network/), an infrastructure technology that lets you reach every *bit* of value. I am also a final-year PhD research scientist at the [Department of Artificial Intelligence](https://www.hhi.fraunhofer.de/en/departments/ai.html) of [Wojciech Samek](http://iphome.hhi.de/samek/) at [Fraunhofer HHI](https://www.hhi.fraunhofer.de/en.html) in Berlin, Germany. I previously built [Dotphoton](https://dotphoton.com/) in Switzerland where we develop data infrastructure for imaging machine learning workloads at petabyte scale.
 
 <div style="clear: both"></div>
 
@@ -22,6 +22,8 @@ I am Co-Founder and Chief AI Officer at [Brickroad](https://brickroadapp.com/) a
 See [Google Scholar](https://scholar.google.com/citations?user=v3ybnf0AAAAJ&hl=en)
 
 ##### **Talks and Presentations**
+* **2026.07.11** **\|** *AI Should Verify, Not Judge, Scientific Work* **\|** **[[program]](https://ai4sciencecommunity.github.io/icml26/schedule)** **\|** Oral @ ICML AI Scientists Workshop **\|** *Seoul, South Korea*
+* **2026.06.27** **\|** *AI Supply Chains* **\|** **[[program]](https://facctconference.org/)** **\|** Panel Talk @ ACM FAccT **\|** *Montreal, Canada*
 * **2026.05.05** **\|** *The Data Multiplexer: Flywheel for Data Flow in the Agent Economy* **\|** **[[program]](https://www.datamakersfest.com/agenda#sz-tab-46147)** **\|** Invited Talk @ Datamakers Fest **\|** *Porto, Portugal*
 * **2026.03.27** **\|** *Data standards for health AI: Benchmarking, metadata and federated data discovery* **\|** **[[program]](https://aiforgood.itu.int/event/data-standards-for-health-ai-benchmarking-metadata-and-federated-data-discovery/)** **\|** Invited Talk @ AI for Good **\|** *Geneva, Switzerland*
 * **2026.02.03** **\|** *On Roman Roads: Data Composition For AI & Agents* **\|** **[[program]](https://www.csail.mit.edu/event/roman-roads-data-composition-ai-agents)** **\|** Invited Talk @ MIT CSAIL **\|** *Boston, USA*
