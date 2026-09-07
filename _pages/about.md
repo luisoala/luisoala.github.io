@@ -24,6 +24,7 @@ A core thesis behind my work is that a lot of ML systems bottlenecks collapse i
 See [Google Scholar](https://scholar.google.com/citations?user=v3ybnf0AAAAJ&hl=en)
 
 ##### **Talks and Presentations**
+* **2027.03.15** **\|** *Navigating the Data Frontier with the Data Multiplexer* **\|** **[[program]](https://shonan.nii.ac.jp/seminars/258/)** **\|** Invited Talk @ NII Shonan Meeting on Advancing Open Machine Learning **\|** *Hayama, Japan*
 * **2026.09.18** **\|** *Navigating the Data Frontier with the Data Multiplexer* **\|** **[[program]](https://baike.baidu.com/en/item/National%20Artificial%20Intelligence%20Application%20Pilot%20Base/1526068)** **\|** Invited Lecture @ National AI Application Base **\|** *Hangzhou, China*
 * **2026.08.06** **\|** *Student Mentorship* **\|** **[[program]](https://deeplearningindaba.com/2026/)** **\|** Mentor @ Deep Learning Indaba 2026 **\|** *Lagos, Nigeria*
 * **2026.07.11** **\|** *AI Should Verify, Not Judge, Scientific Work* **\|** **[[program]](https://ai4sciencecommunity.github.io/icml26/schedule)** **\|** Oral @ ICML AI Scientists Workshop **\|** *Seoul, South Korea*
